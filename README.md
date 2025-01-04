@@ -1,5 +1,5 @@
 ## Chicken GUI Game: Penguin's Quest
-- This is an interactive Java-based game where players embody a supportive penguin on a mission to cheer up their despondent chicken companion.
+- This is an interactive Java-based game where players embody a supportive penguin on a mission to cheer up their despondent chicken friend.
 
 ## Game Features:
     - Food Catching Module: Players must catch falling food items, selecting the food that the chicken prefers.
