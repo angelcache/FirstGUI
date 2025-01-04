@@ -18,6 +18,5 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 ## Installation
 - Ensure that the Java Development Kit (JDK) is installed on your system.
-- Apache Maven is recommended for building the project.
 - Clone the repository
 - Run the app via VSCode or preferred IDE
